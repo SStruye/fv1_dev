@@ -3,7 +3,7 @@
 - I build a dev board around it for use as a guitar pedal design platform.
 - the devboard has a onboard usb programmer, buffered in and output, 3 positional dip switch for the FV1, 3 variable resistor for the FV1, 1 variable resistor for volume and one for mixing the clean and effects signal.
 - a 4 layer pcb design was made for better signal integrity.
-- Some small mistakes are still in the design but it works.
+- Some small mistakes are still in the design but it works. (e.g. wrong 3.3V regulator footprint)
 - Further improvements won't be added for the foreseeable future as intrests shifted.
 
 ## PCB design
