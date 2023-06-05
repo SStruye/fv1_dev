@@ -1,5 +1,5 @@
 # FV1 dev board
-the FV1 is a widely used reverb I2C that is programmable.
+the FV1 is a widely used reverb/effect I2C that is programmable.
 I build a dev board around it for use as a guitar pedal design platform. <br>
 
 the devboard provides:
